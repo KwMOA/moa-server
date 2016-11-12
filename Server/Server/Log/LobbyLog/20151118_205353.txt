@@ -1,0 +1,26 @@
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = cache_server role = client ip = 127.0.0.1 port = 20190 0 0
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20100 0 0
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20210 0 0
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = chatting_server role = client ip = 127.0.0.1 port = 20130 0 0
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = client role = server ip = 127.0.0.1 port = 20410 0 0
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheSessionIn,176,DEBUG,cache session in
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionIn,507,DEBUG,127.0.0.1 20210 127.0.0.1 20410
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheHandleFirstConnectRes,193,DEBUG,cacheHandleFirstConnectRes
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:53:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,chattingHandleFirstConnectRes,863,DEBUG,chatting ip port : 127.0.0.1 20430
+2015-11-18 20:53:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameSessionIn,682,DEBUG,gameSessionIn
+2015-11-18 20:53:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:53:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFirstConnectReq,712,DEBUG,game First connect req
+2015-11-18 20:58:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:58:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:58:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,1224,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-11-18 20:58:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:58:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:58:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:58:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,572,DEBUG,3
+2015-11-18 20:58:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 20:58:55,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleMoveChannelReq,1342,DEBUG,ClientReceiveHandler::HandleMoveChannelReq
+2015-11-18 20:59:28,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2015-11-18 20:59:28,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,1046,DEBUG,delete from channel

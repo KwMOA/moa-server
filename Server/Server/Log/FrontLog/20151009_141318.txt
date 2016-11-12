@@ -1,0 +1,10 @@
+2015-10-09 14:13:18,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20100 0 0
+2015-10-09 14:13:18,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20200 0 0
+2015-10-09 14:13:18,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = chatting_server role = server ip = 127.0.0.1 port = 20300 0 0
+2015-10-09 14:13:18,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = client role = server ip = 127.0.0.1 port = 20400 0 0
+2015-10-09 14:13:30,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,28,DEBUG,connected
+2015-10-09 14:13:30,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,lobbySessionIn,130,DEBUG,lobby server session in
+2015-10-09 14:13:31,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,lobbyHandleFirstConnectReq,177,DEBUG,packet.gameIp = 127.0.0.1, packet.gamePort = 20210, packet.clientIp = 127.0.0.1 packet.clientPort = 20410
+2015-10-09 14:13:41,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,28,DEBUG,connected
+2015-10-09 14:13:42,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,372,DEBUG,clientHandleFirstConnectReq
+2015-10-09 14:13:56,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,372,DEBUG,clientHandleFirstConnectReq

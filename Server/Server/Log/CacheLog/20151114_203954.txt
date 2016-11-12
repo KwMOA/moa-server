@@ -1,0 +1,6 @@
+2015-11-14 20:39:54,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = server ip = 127.0.0.1 port = 20090 0 0
+2015-11-14 20:39:54,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20190 0 0
+2015-11-14 20:39:54,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20290 0 0
+2015-11-14 20:39:54,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = chatting_server role = server ip = 127.0.0.1 port = 20390 0 0
+2015-11-14 20:39:54,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20490 0 0
+2015-11-14 20:39:54,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/DBConn.cpp,MysqlErrorLog,122,ERROR,mysql conn error, (2003) Can't connect to MySQL server on '127.0.0.1' (61)

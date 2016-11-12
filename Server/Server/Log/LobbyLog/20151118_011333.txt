@@ -1,0 +1,14 @@
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = cache_server role = client ip = 127.0.0.1 port = 20190 0 0
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20100 0 0
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20210 0 0
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = chatting_server role = client ip = 127.0.0.1 port = 20130 0 0
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = client role = server ip = 127.0.0.1 port = 20410 0 0
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheSessionIn,176,DEBUG,cache session in
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionIn,469,DEBUG,127.0.0.1 20210 127.0.0.1 20410
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 01:13:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,chattingHandleFirstConnectRes,825,DEBUG,chatting ip port : 127.0.0.1 20430
+2015-11-18 01:13:39,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 01:13:39,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-18 01:13:39,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,1060,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-11-18 01:13:39,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData

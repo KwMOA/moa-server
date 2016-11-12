@@ -1,0 +1,14 @@
+2015-10-09 22:01:28,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20200 0 0
+2015-10-09 22:01:28,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20420 0 0
+2015-10-09 22:01:28,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,connected,52,DEBUG,connected
+2015-10-09 22:01:28,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,114,DEBUG,reciveData
+2015-10-09 22:01:28,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,frontHandleFirstConnectRes,200,DEBUG,127.0.0.1 20210
+2015-10-09 22:01:28,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,connected,52,DEBUG,connected
+2015-10-09 22:01:28,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,114,DEBUG,reciveData
+2015-10-09 22:01:28,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleFirstConnectRes,274,DEBUG,lobbyHandleFirstConnectRes
+2015-10-09 22:01:28,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleFirstConnectRes,285,DEBUG,127.0.0.1 20410
+2015-10-09 22:02:11,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,114,DEBUG,reciveData
+2015-10-09 22:02:11,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleEnterRoomReq,316,DEBUG,ok
+2015-10-09 22:02:11,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,connected,52,DEBUG,connected
+2015-10-09 22:02:11,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,114,DEBUG,reciveData
+2015-10-09 22:03:31,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,disconnected,83,DEBUG,disconnected

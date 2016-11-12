@@ -1,0 +1,12 @@
+2015-11-16 03:43:21,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = server ip = 127.0.0.1 port = 20090 0 0
+2015-11-16 03:43:21,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20190 0 0
+2015-11-16 03:43:21,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/GameDBChannel.cpp,InitUserInMemory,248,DEBUG,?
+Q ?
+Q 5
+2015-11-16 03:43:32,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/IOManager.cpp,connected,30,DEBUG,connected
+2015-11-16 03:43:39,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByUserId,191,ERROR,not exist User
+2015-11-16 03:43:47,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByUserId,191,ERROR,not exist User
+2015-11-16 03:43:47,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByNickNameInfo,204,ERROR,not exist User
+2015-11-16 03:43:47,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/DBConn.cpp,MysqlErrorLog,122,ERROR,could not excute query, (1062) Duplicate entry '?
+Q' for key 'UserId'
+2015-11-16 03:43:47,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/IOManager.cpp,frontHandleCreateUserReq,244,ERROR,??

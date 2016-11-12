@@ -1,0 +1,5 @@
+2015-10-12 23:33:50,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20100 3000 3
+2015-10-12 23:33:50,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20210 0 0
+2015-10-12 23:33:50,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = chatting_server role = client ip = 127.0.0.1 port = 20130 0 0
+2015-10-12 23:33:50,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20410 0 0
+2015-10-12 23:33:50,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionIn,178,DEBUG,127.0.0.1 20210 127.0.0.1 20410

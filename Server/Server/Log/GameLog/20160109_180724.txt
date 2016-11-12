@@ -1,0 +1,18 @@
+2016-01-09 18:07:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20200 0 0
+2016-01-09 18:07:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20420 0 0
+2016-01-09 18:07:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2016-01-09 18:07:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 18:07:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,frontHandleFirstConnectRes,168,DEBUG,127.0.0.1 20210
+2016-01-09 18:07:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2016-01-09 18:07:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 18:07:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleFirstConnectRes,242,DEBUG,lobbyHandleFirstConnectRes
+2016-01-09 18:07:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleFirstConnectRes,253,DEBUG,127.0.0.1 20410
+2016-01-09 18:07:38,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2016-01-09 18:07:49,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 18:07:49,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleEnterRoomReq,284,DEBUG,ok
+2016-01-09 18:07:49,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2016-01-09 18:07:49,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 18:07:49,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 18:07:54,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 18:07:54,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 2
+2016-01-09 18:07:54,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 64000, y - 64000

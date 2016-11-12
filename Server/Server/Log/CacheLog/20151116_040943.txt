@@ -1,0 +1,13 @@
+2015-11-16 04:09:43,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = server ip = 127.0.0.1 port = 20090 0 0
+2015-11-16 04:09:43,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20190 0 0
+2015-11-16 04:09:46,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/IOManager.cpp,connected,30,DEBUG,connected
+2015-11-16 04:09:47,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 04:10:04,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 04:10:04,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 04:10:04,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 04:10:04,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 04:10:55,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByUserId,191,ERROR,not exist User
+2015-11-16 04:11:13,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByUserId,191,ERROR,not exist User
+2015-11-16 04:11:22,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByNickNameInfo,204,ERROR,not exist User
+2015-11-16 04:12:07,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/DBConn.cpp,ProcessNoResultQuery,73,DEBUG,INSERT INTO User (UserId, NickName, Coin, Grade, CreateTime, LastLoginTime, LastLogoutTime) VALUES('ܿ
+Q', 'fee', 0, 0, NOW(), NOW(), NOW());

@@ -1,0 +1,16 @@
+2015-10-09 15:44:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20100 3000 3
+2015-10-09 15:44:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20210 0 0
+2015-10-09 15:44:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20410 0 0
+2015-10-09 15:44:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionIn,177,DEBUG,127.0.0.1 20210 127.0.0.1 20410
+2015-10-09 15:44:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,97,DEBUG,reciveData
+2015-10-09 15:46:28,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,97,DEBUG,reciveData
+2015-10-09 15:46:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,97,DEBUG,reciveData
+2015-10-09 15:46:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,722,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-09 15:46:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,97,DEBUG,reciveData
+2015-10-09 15:46:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,249,DEBUG,1
+2015-10-09 15:46:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,97,DEBUG,reciveData
+2015-10-09 15:46:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleMoveChannelReq,822,DEBUG,ClientReceiveHandler::HandleMoveChannelReq
+2015-10-09 15:47:13,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,63,DEBUG,disconnected
+2015-10-09 15:47:19,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,540,DEBUG,delete from channel
+2015-10-09 15:47:43,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/User.cpp,removeUser,169,ERROR,erase fail
+2015-10-09 15:47:44,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,624,ERROR,userMgr->removeUser(user)

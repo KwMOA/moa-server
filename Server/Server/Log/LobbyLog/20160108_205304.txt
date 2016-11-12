@@ -1,0 +1,49 @@
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = cache_server role = client ip = 127.0.0.1 port = 20190 0 0
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20100 0 0
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20210 0 0
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = chatting_server role = client ip = 127.0.0.1 port = 20130 0 0
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = client role = server ip = 127.0.0.1 port = 20410 0 0
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheSessionIn,176,DEBUG,cache session in
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionIn,519,DEBUG,127.0.0.1 20210 127.0.0.1 20410
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheHandleFirstConnectRes,193,DEBUG,cacheHandleFirstConnectRes
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,chattingHandleFirstConnectRes,875,DEBUG,chatting ip port : 127.0.0.1 20430
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameSessionIn,694,DEBUG,gameSessionIn
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:04,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFirstConnectReq,724,DEBUG,game First connect req
+2016-01-08 20:53:09,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:09,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:09,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,1254,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2016-01-08 20:53:09,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:09,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:09,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:09,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,584,DEBUG,4
+2016-01-08 20:53:10,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:10,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleMoveChannelReq,1372,DEBUG,ClientReceiveHandler::HandleMoveChannelReq
+2016-01-08 20:53:11,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:11,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:11,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:53:11,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,2753,DEBUG,room No1
+2016-01-08 20:54:23,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2016-01-08 20:54:23,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/Room.cpp,leaveRoom,718,ERROR,??
+2016-01-08 20:54:23,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,1135,ERROR,??
+2016-01-08 20:54:23,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,1153,DEBUG,eeeeee2
+2016-01-08 20:54:55,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:54:55,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:54:55,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,1254,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2016-01-08 20:54:55,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:54:55,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:54:55,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:54:55,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,584,DEBUG,4
+2016-01-08 20:54:55,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:54:55,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleMoveChannelReq,1372,DEBUG,ClientReceiveHandler::HandleMoveChannelReq
+2016-01-08 20:54:56,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:54:57,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:54:57,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 20:54:57,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,2753,DEBUG,room No2
+2016-01-08 20:58:39,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2016-01-08 20:58:39,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/Room.cpp,leaveRoom,718,ERROR,??
+2016-01-08 20:58:39,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,1135,ERROR,??
+2016-01-08 20:58:39,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,1153,DEBUG,eeeeee2

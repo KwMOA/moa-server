@@ -1,0 +1,10 @@
+2016-01-08 21:06:41,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/ChattingData.cpp,LoadNetworkInfo,128,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20130 0 0
+2016-01-08 21:06:41,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/ChattingData.cpp,LoadNetworkInfo,128,DEBUG,type = client role = server ip = 127.0.0.1 port = 20430 0 0
+2016-01-08 21:06:45,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2016-01-08 21:06:45,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,lobbyHandleFirstConnectReq,165,DEBUG,127.0.0.1 20430
+2016-01-08 21:06:53,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2016-01-08 21:06:53,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2016-01-08 21:06:53,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,clientHandleFirstConnectReq,316,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2016-01-08 21:06:53,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2016-01-08 21:08:48,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected
+2016-01-08 21:08:50,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected

@@ -1,0 +1,24 @@
+2015-11-16 01:29:10,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = cache_server role = client ip = 127.0.0.1 port = 20090 0 0
+2015-11-16 01:29:10,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20100 0 0
+2015-11-16 01:29:10,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20200 0 0
+2015-11-16 01:29:10,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = chatting_server role = server ip = 127.0.0.1 port = 20300 0 0
+2015-11-16 01:29:10,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20400 0 0
+2015-11-16 01:29:10,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,32,DEBUG,connected
+2015-11-16 01:29:10,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheSessionIn,141,DEBUG,cache server session in
+2015-11-16 01:29:10,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleFirstConnectRes,184,DEBUG,cache lobby connect 127.0.0.1 20190
+2015-11-16 01:29:11,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 01:29:13,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,32,DEBUG,connected
+2015-11-16 01:29:13,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,534,DEBUG,clientHandleFirstConnectReq
+2015-11-16 01:30:55,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:05,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:05,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:06,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:07,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:36,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:42,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:44,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:45,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:46,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:47,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:31:57,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleLoginUserFail,228,DEBUG,leave already
+2015-11-16 01:33:01,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,67,DEBUG,disconnected

@@ -1,0 +1,7 @@
+2015-11-18 19:31:05,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20200 0 0
+2015-11-18 19:31:05,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20420 0 0
+2015-11-18 19:31:05,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,CreateTCPClientSocket,1227,ERROR,can't connect.
+
+2015-11-18 19:31:05,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,AddClientTypeNetworkInfo,430,ERROR,create sock error
+2015-11-18 19:31:05,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,Initialize,297,ERROR,AddClientType NetworkInfo error
+2015-11-18 19:31:05,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/GameServer.cpp,initialize,53,ERROR,Network error

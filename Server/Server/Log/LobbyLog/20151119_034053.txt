@@ -1,0 +1,29 @@
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = cache_server role = client ip = 127.0.0.1 port = 20190 0 0
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20100 0 0
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20210 0 0
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = chatting_server role = client ip = 127.0.0.1 port = 20130 0 0
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = client role = server ip = 127.0.0.1 port = 20410 0 0
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheSessionIn,176,DEBUG,cache session in
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionIn,519,DEBUG,127.0.0.1 20210 127.0.0.1 20410
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheHandleFirstConnectRes,193,DEBUG,cacheHandleFirstConnectRes
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-19 03:40:53,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,chattingHandleFirstConnectRes,875,DEBUG,chatting ip port : 127.0.0.1 20430
+2015-11-19 03:41:56,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-19 03:41:56,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-19 03:41:56,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,1236,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-11-19 03:41:56,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-19 03:41:56,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-19 03:41:57,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-19 03:41:57,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,584,DEBUG,4
+2015-11-19 03:41:57,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2015-11-19 03:41:57,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleMoveChannelReq,1354,DEBUG,ClientReceiveHandler::HandleMoveChannelReq
+2015-11-19 03:42:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2015-11-19 03:42:33,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,1058,DEBUG,delete from channel
+2015-11-19 03:48:28,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2015-11-19 03:48:28,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionOut,526,ERROR,never disconnect
+2015-11-19 03:48:28,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,disconnectWithSocket,1274,ERROR,not found connectInfo
+2015-11-19 03:48:29,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2015-11-19 03:48:29,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheSessionOut,186,ERROR,never disconnect
+2015-11-19 03:48:29,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,disconnectWithSocket,1274,ERROR,not found connectInfo

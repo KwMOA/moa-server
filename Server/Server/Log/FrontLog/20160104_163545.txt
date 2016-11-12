@@ -1,0 +1,24 @@
+2016-01-04 16:35:45,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = cache_server role = client ip = 127.0.0.1 port = 20090 0 0
+2016-01-04 16:35:45,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20100 0 0
+2016-01-04 16:35:45,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20200 0 0
+2016-01-04 16:35:45,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = chatting_server role = server ip = 127.0.0.1 port = 20300 0 0
+2016-01-04 16:35:45,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20400 0 0
+2016-01-04 16:35:45,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,35,DEBUG,connected
+2016-01-04 16:35:45,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheSessionIn,144,DEBUG,cache server session in
+2016-01-04 16:35:45,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheHandleFirstConnectRes,187,DEBUG,cache lobby connect 127.0.0.1 20190
+2016-01-04 16:35:50,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,35,DEBUG,connected
+2016-01-04 16:35:50,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,lobbySessionIn,282,DEBUG,lobby server session in
+2016-01-04 16:35:50,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,lobbyHandleFirstConnectReq,329,DEBUG,packet.gameIp = 127.0.0.1, packet.gamePort = 20210, packet.clientIp = 127.0.0.1 packet.clientPort = 20410
+2016-01-04 16:35:52,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,35,DEBUG,connected
+2016-01-04 16:35:52,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,gameSessionIn,386,DEBUG,gameSessionIn
+2016-01-04 16:39:52,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,35,DEBUG,connected
+2016-01-04 16:39:52,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,537,DEBUG,clientHandleFirstConnectReq
+2016-01-04 16:39:53,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleEnterLobbyReq,661,DEBUG,clientHandleEnterLobbyReq
+2016-01-04 16:39:53,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2016-01-04 16:40:39,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2016-01-04 16:40:39,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,gameSessionOut,392,DEBUG,gameSessionOut
+2016-01-04 16:40:45,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2016-01-04 16:40:45,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL
+2016-01-04 16:40:47,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2016-01-04 16:40:47,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,cacheSessionOut,151,DEBUG,cache server session out
+2016-01-04 16:40:47,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,disconnectWithSocket,1274,ERROR,not found connectInfo

@@ -1,0 +1,20 @@
+2015-11-19 02:00:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20200 0 0
+2015-11-19 02:00:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20420 0 0
+2015-11-19 02:00:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2015-11-19 02:00:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2015-11-19 02:00:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,frontHandleFirstConnectRes,168,DEBUG,127.0.0.1 20210
+2015-11-19 02:00:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2015-11-19 02:00:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2015-11-19 02:00:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleFirstConnectRes,242,DEBUG,lobbyHandleFirstConnectRes
+2015-11-19 02:00:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleFirstConnectRes,253,DEBUG,127.0.0.1 20410
+2015-11-19 02:03:51,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2015-11-19 02:03:51,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleEnterRoomReq,284,DEBUG,ok
+2015-11-19 02:03:51,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2015-11-19 02:03:51,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2015-11-19 02:03:51,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2015-11-19 02:03:52,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2015-11-19 02:03:52,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2015-11-19 02:03:52,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2015-11-19 02:40:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,disconnected,57,DEBUG,disconnected
+2015-11-19 02:40:57,/Users/kimyongchan/MobileStar/Server/Server/GameServer/GameServer/IOManager.cpp,lobbySessionOut,236,ERROR,never disconnect
+2015-11-19 02:40:57,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,disconnectWithSocket,1274,ERROR,not found connectInfo

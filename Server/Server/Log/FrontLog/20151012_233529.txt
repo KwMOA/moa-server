@@ -1,0 +1,10 @@
+2015-10-12 23:35:29,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20100 0 0
+2015-10-12 23:35:29,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20200 0 0
+2015-10-12 23:35:29,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = chatting_server role = server ip = 127.0.0.1 port = 20300 0 0
+2015-10-12 23:35:29,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = client role = server ip = 127.0.0.1 port = 20400 0 0
+2015-10-12 23:35:34,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,60,DEBUG,disconnected
+2015-10-12 23:37:43,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,611,ERROR,kevent wait fail.
+2015-10-12 23:37:43,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,611,ERROR,kevent wait fail.
+2015-10-12 23:37:43,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,611,ERROR,kevent wait fail.
+2015-10-12 23:37:43,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,611,ERROR,kevent wait fail.
+2015-10-12 23:37:43,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,611,ERROR,kevent wait fail.

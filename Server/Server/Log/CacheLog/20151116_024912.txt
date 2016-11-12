@@ -1,0 +1,11 @@
+2015-11-16 02:49:12,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = server ip = 127.0.0.1 port = 20090 0 0
+2015-11-16 02:49:12,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20190 0 0
+2015-11-16 02:49:13,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/IOManager.cpp,connected,30,DEBUG,connected
+2015-11-16 02:49:23,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 02:49:23,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 02:49:25,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByUserId,191,ERROR,not exist User
+2015-11-16 02:49:29,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByUserId,191,ERROR,not exist User
+2015-11-16 02:49:29,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/DBConn.cpp,MysqlErrorLog,122,ERROR,could not excute query, (1062) Duplicate entry '?
+Q' for key 'UserId'
+2015-11-16 02:49:29,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/IOManager.cpp,frontHandleCreateUserReq,229,ERROR,??
+2015-11-16 02:50:29,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/IOManager.cpp,disconnected,56,DEBUG,disconnected

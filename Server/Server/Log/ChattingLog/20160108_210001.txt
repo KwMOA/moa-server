@@ -1,0 +1,6 @@
+2016-01-08 21:00:01,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2016-01-08 21:00:01,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2016-01-08 21:00:01,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,clientHandleFirstConnectReq,316,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2016-01-08 21:00:01,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2016-01-08 21:03:31,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected
+2016-01-08 21:03:34,/Users/kimyongchan/CPG/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected

@@ -1,0 +1,10 @@
+2015-10-01 19:20:08,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20200 0 0
+2015-10-01 19:20:08,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20420 0 0
+2015-10-01 19:20:08,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/IOManager.cpp,connected,52,DEBUG,connected
+2015-10-01 19:20:08,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,114,DEBUG,reciveData
+2015-10-01 19:20:08,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/IOManager.cpp,frontHandleFirstConnectRes,200,DEBUG,127.0.0.1 20210
+2015-10-01 19:20:08,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/IOManager.cpp,connected,52,DEBUG,connected
+2015-10-01 19:20:08,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,114,DEBUG,reciveData
+2015-10-01 19:20:08,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleFirstConnectRes,274,DEBUG,lobbyHandleFirstConnectRes
+2015-10-01 19:20:49,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,114,DEBUG,reciveData
+2015-10-01 19:20:49,/Users/kimyongchan/MoblieStar/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleEnterRoomReq,314,DEBUG,ok

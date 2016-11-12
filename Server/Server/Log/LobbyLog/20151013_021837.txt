@@ -1,0 +1,90 @@
+2015-10-13 02:18:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20100 3000 3
+2015-10-13 02:18:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20210 0 0
+2015-10-13 02:18:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = chatting_server role = client ip = 127.0.0.1 port = 20130 0 0
+2015-10-13 02:18:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20410 0 0
+2015-10-13 02:18:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionIn,178,DEBUG,127.0.0.1 20210 127.0.0.1 20410
+2015-10-13 02:18:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:18:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:18:37,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,chattingHandleFirstConnectRes,541,DEBUG,chatting ip port : 127.0.0.1 20430
+2015-10-13 02:18:48,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:18:48,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:18:48,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:18:48,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:18:48,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:18:48,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,1
+2015-10-13 02:19:04,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:19:21,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:19:21,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:19:21,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:19:21,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:19:21,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:19:21,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,2
+2015-10-13 02:19:32,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:22:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:22:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:22:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:22:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:22:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:22:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,3
+2015-10-13 02:22:24,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:22:41,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:22:41,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:22:41,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:22:41,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:22:41,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:22:41,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,4
+2015-10-13 02:24:19,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:24:31,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:24:31,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:24:31,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:24:31,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:24:31,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:24:31,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,5
+2015-10-13 02:24:59,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:25:06,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:25:06,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:25:06,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:25:06,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:25:06,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:25:06,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,6
+2015-10-13 02:25:57,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:26:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:26:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:26:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:26:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:26:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:26:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,7
+2015-10-13 02:27:04,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:27:16,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:27:17,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:27:17,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:27:17,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:27:17,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:27:17,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,8
+2015-10-13 02:27:17,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:27:17,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleMoveChannelReq,913,DEBUG,ClientReceiveHandler::HandleMoveChannelReq
+2015-10-13 02:28:59,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:28:59,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,603,DEBUG,delete from channel
+2015-10-13 02:29:12,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:12,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:12,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:29:12,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:12,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:12,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,9
+2015-10-13 02:29:18,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:18,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleMoveChannelReq,913,DEBUG,ClientReceiveHandler::HandleMoveChannelReq
+2015-10-13 02:29:49,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:29:49,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,603,DEBUG,delete from channel
+2015-10-13 02:29:52,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:52,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:52,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,781,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-13 02:29:52,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:52,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:52,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,250,DEBUG,10
+2015-10-13 02:29:57,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,98,DEBUG,reciveData
+2015-10-13 02:29:57,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleMoveChannelReq,913,DEBUG,ClientReceiveHandler::HandleMoveChannelReq
+2015-10-13 02:31:45,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:31:45,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,603,DEBUG,delete from channel
+2015-10-13 02:31:46,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,64,DEBUG,disconnected
+2015-10-13 02:31:46,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,chattingSessionOut,526,ERROR,never chatting session out
+2015-10-13 02:31:46,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,disconnectWithSocket,1274,ERROR,not found connectInfo

@@ -1,0 +1,16 @@
+2015-11-18 04:24:29,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/ChattingData.cpp,LoadNetworkInfo,128,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20130 0 0
+2015-11-18 04:24:29,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/ChattingData.cpp,LoadNetworkInfo,128,DEBUG,type = client role = server ip = 127.0.0.1 port = 20430 0 0
+2015-11-18 04:24:37,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 04:24:37,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,lobbyHandleFirstConnectReq,165,DEBUG,127.0.0.1 20430
+2015-11-18 04:25:09,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 04:25:09,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 04:25:09,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,clientHandleFirstConnectReq,316,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-11-18 04:25:09,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 04:25:12,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 04:25:12,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,clientHandleSendChattingReq,395,DEBUG,r/Cver/ChattingServ,receiveData,81,edData/ChattingS 0
+2015-11-18 04:25:12,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/LObject.cpp,chattingNotify,55,DEBUG,ClientReceiveHandler::chattingNotify
+2015-11-18 04:25:12,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 04:25:12,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,clientHandleSendChattingReq,395,DEBUG,veHcpp,chattingNotintReceiveHandleredData/ChattingS 0
+2015-11-18 04:25:12,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/LObject.cpp,chattingNotify,55,DEBUG,ClientReceiveHandler::chattingNotify
+2015-11-18 04:26:35,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected
+2015-11-18 04:26:37,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected

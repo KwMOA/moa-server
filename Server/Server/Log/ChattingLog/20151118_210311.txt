@@ -1,0 +1,10 @@
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,clientHandleFirstConnectReq,316,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 21:03:39,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected
+2015-11-18 21:03:51,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 21:03:51,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 21:03:51,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,clientHandleFirstConnectReq,316,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-11-18 21:03:51,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,receiveData,81,DEBUG,reciveData
+2015-11-18 21:03:54,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected

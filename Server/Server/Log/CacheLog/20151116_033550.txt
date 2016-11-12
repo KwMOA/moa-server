@@ -1,0 +1,10 @@
+2015-11-16 03:35:50,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = server ip = 127.0.0.1 port = 20090 0 0
+2015-11-16 03:35:50,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20190 0 0
+2015-11-16 03:35:50,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/GameDBChannel.cpp,InitUserInMemory,245,DEBUG,?
+Q 5
+2015-11-16 03:35:55,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/IOManager.cpp,connected,30,DEBUG,connected
+2015-11-16 03:36:01,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByUserId,191,ERROR,not exist User
+2015-11-16 03:36:40,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 03:36:40,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 03:36:40,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.
+2015-11-16 03:36:41,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,613,ERROR,kevent wait fail.

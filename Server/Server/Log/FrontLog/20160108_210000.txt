@@ -1,0 +1,6 @@
+2016-01-08 21:00:00,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleEnterLobbyReq,661,DEBUG,clientHandleEnterLobbyReq
+2016-01-08 21:00:01,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2016-01-08 21:03:33,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2016-01-08 21:03:33,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,gameSessionOut,392,DEBUG,gameSessionOut
+2016-01-08 21:03:34,/Users/kimyongchan/CPG/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2016-01-08 21:03:34,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL

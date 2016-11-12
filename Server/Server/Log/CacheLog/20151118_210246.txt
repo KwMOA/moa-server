@@ -1,0 +1,5 @@
+2015-11-18 21:02:46,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByUserId,191,ERROR,not exist User
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByUserId,191,ERROR,not exist User
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,getUserByNickNameInfo,204,ERROR,not exist User
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/DBConn.cpp,ProcessNoResultQuery,73,DEBUG,INSERT INTO User (UserId, NickName, Coin, Grade, CreateTime, LastLoginTime, LastLogoutTime) VALUES('56865343-a57f-465c-a7e3-df444cc9b6b0', 'eee', 0, 0, NOW(), NOW(), NOW());
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/User.cpp,initialize,16,DEBUG,3

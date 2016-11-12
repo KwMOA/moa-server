@@ -1,0 +1,10 @@
+2015-11-19 00:55:59,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2015-11-19 00:55:59,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionOut,514,ERROR,never disconnect
+2015-11-19 00:55:59,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,disconnectWithSocket,1274,ERROR,not found connectInfo
+2015-11-19 00:56:00,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2015-11-19 00:56:00,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheSessionOut,186,ERROR,never disconnect
+2015-11-19 00:56:00,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,disconnectWithSocket,1274,ERROR,not found connectInfo
+2015-11-19 00:56:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2015-11-19 00:56:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameSessionOut,688,DEBUG,game sessionOut
+2015-11-19 00:56:01,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameSessionOut,700,ERROR,game server remove fail
+2015-11-19 00:56:01,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL

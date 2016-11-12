@@ -1,0 +1,2 @@
+2015-11-18 20:25:28,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,69,DEBUG,disconnected
+2015-11-18 20:25:28,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,1046,DEBUG,delete from channel

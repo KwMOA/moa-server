@@ -1,0 +1,16 @@
+2015-11-18 19:06:03,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,67,DEBUG,disconnected
+2015-11-18 19:06:03,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL
+2015-11-18 19:06:14,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,32,DEBUG,connected
+2015-11-18 19:06:14,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,534,DEBUG,clientHandleFirstConnectReq
+2015-11-18 19:06:43,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleEnterLobbyReq,654,DEBUG,clientHandleEnterLobbyReq
+2015-11-18 19:06:43,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,67,DEBUG,disconnected
+2015-11-18 19:23:29,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,32,DEBUG,connected
+2015-11-18 19:23:29,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,534,DEBUG,clientHandleFirstConnectReq
+2015-11-18 19:23:55,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,67,DEBUG,disconnected
+2015-11-18 19:23:55,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL
+2015-11-18 19:24:00,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,32,DEBUG,connected
+2015-11-18 19:24:00,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,534,DEBUG,clientHandleFirstConnectReq
+2015-11-18 19:30:52,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,67,DEBUG,disconnected
+2015-11-18 19:30:52,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,gameSessionOut,389,DEBUG,gameSessionOut
+2015-11-18 19:30:53,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,67,DEBUG,disconnected
+2015-11-18 19:30:53,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL

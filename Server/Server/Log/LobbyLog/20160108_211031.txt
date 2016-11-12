@@ -1,0 +1,12 @@
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = cache_server role = client ip = 127.0.0.1 port = 20190 0 0
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20100 0 0
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20210 0 0
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = chatting_server role = client ip = 127.0.0.1 port = 20130 0 0
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/LobbyData.cpp,LoadNetworkInfo,139,DEBUG,type = client role = server ip = 127.0.0.1 port = 20410 0 0
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheSessionIn,176,DEBUG,cache session in
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontSessionIn,519,DEBUG,127.0.0.1 20210 127.0.0.1 20410
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,cacheHandleFirstConnectRes,193,DEBUG,cacheHandleFirstConnectRes
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,106,DEBUG,reciveData
+2016-01-08 21:10:31,/Users/kimyongchan/CPG/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,chattingHandleFirstConnectRes,875,DEBUG,chatting ip port : 127.0.0.1 20430

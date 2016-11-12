@@ -1,0 +1,2 @@
+2015-10-13 02:00:45,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,60,DEBUG,disconnected
+2015-10-13 02:00:45,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL

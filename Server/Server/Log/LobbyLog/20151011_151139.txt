@@ -1,0 +1,4 @@
+2015-10-11 15:11:39,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,63,DEBUG,disconnected
+2015-10-11 15:11:39,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameSessionOut,365,DEBUG,game sessionOut
+2015-10-11 15:11:39,/Users/kimyongchan/MobileStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameSessionOut,377,ERROR,game server remove fail
+2015-10-11 15:11:39,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL

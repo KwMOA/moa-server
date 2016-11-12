@@ -1,0 +1,3 @@
+2015-10-03 09:52:51,/Users/kimyongchan/MoblieStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,99,DEBUG,disconnected
+2015-10-03 09:52:52,/Users/kimyongchan/MoblieStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,99,DEBUG,disconnected
+2015-10-03 09:52:52,/Users/kimyongchan/MoblieStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,99,ERROR,userData not NULL

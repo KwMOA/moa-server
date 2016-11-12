@@ -1,0 +1,359 @@
+2015-10-01 20:00:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:00:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:00:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:00:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:00:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:00:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,578,DEBUG,delete from channel in 1
+2015-10-01 20:00:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:00:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,2
+2015-10-01 20:00:28,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:00:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:00:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:00:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:00:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No3
+2015-10-01 20:00:30,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:00:30,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 3
+2015-10-01 20:00:30,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:01:07,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:01:07,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:01:07,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,3
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/User.cpp,getUserByUserNo,109,ERROR,not exist User
+2015-10-01 20:01:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,291,ERROR,??
+2015-10-01 20:01:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:01:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:01:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:01:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:01:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No4
+2015-10-01 20:01:17,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:01:17,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 4
+2015-10-01 20:01:17,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:02:50,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:02:50,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:02:50,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,4
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/User.cpp,getUserByUserNo,109,ERROR,not exist User
+2015-10-01 20:02:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,291,ERROR,??
+2015-10-01 20:02:57,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:02:58,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:02:58,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:02:58,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:02:58,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No5
+2015-10-01 20:02:59,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:02:59,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 5
+2015-10-01 20:02:59,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:05:41,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:05:41,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:05:41,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,5
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/User.cpp,getUserByUserNo,109,ERROR,not exist User
+2015-10-01 20:05:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,291,ERROR,??
+2015-10-01 20:05:53,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:05:53,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:05:53,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:05:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:05:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No6
+2015-10-01 20:06:38,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:06:38,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 6
+2015-10-01 20:06:38,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:07:04,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:07:04,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:07:04,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,6
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/User.cpp,getUserByUserNo,109,ERROR,not exist User
+2015-10-01 20:07:09,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,291,ERROR,??
+2015-10-01 20:07:21,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:07:22,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:07:22,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:07:28,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:07:28,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No7
+2015-10-01 20:07:33,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:07:33,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 7
+2015-10-01 20:07:33,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:11:13,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:11:13,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:11:13,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,7
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/User.cpp,getUserByUserNo,109,ERROR,not exist User
+2015-10-01 20:11:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,291,ERROR,??
+2015-10-01 20:11:28,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:11:28,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:11:28,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:11:28,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:11:28,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No8
+2015-10-01 20:11:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:11:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 8
+2015-10-01 20:11:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:18:05,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:18:05,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:18:05,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,8
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/User.cpp,getUserByUserNo,109,ERROR,not exist User
+2015-10-01 20:18:24,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,291,ERROR,??
+2015-10-01 20:18:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:18:26,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:26,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No9
+2015-10-01 20:18:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 9
+2015-10-01 20:18:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:18:40,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:18:40,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:18:40,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,9
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/User.cpp,getUserByUserNo,109,ERROR,not exist User
+2015-10-01 20:18:49,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,291,ERROR,??
+2015-10-01 20:18:50,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:51,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:51,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:18:51,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:51,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No10
+2015-10-01 20:18:52,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:18:52,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 10
+2015-10-01 20:18:52,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:21:03,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:21:03,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:21:03,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,10
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/User.cpp,getUserByUserNo,109,ERROR,not exist User
+2015-10-01 20:21:12,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,291,ERROR,??
+2015-10-01 20:21:13,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:21:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No11
+2015-10-01 20:21:15,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:15,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 11
+2015-10-01 20:21:15,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:21:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:21:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:21:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:21:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:21:16,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:21:17,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:18,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:18,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:21:18,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:18,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No12
+2015-10-01 20:21:19,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:19,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 12
+2015-10-01 20:21:19,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:21:21,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:21,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:21:21,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:21:21,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:21:21,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:21:21,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:21:21,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:22,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:22,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:21:22,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:22,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No13
+2015-10-01 20:21:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:21:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 13
+2015-10-01 20:21:23,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:33:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:33:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:33:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:33:14,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,285,DEBUG,11
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/User.cpp,getUserByUserNo,109,ERROR,not exist User
+2015-10-01 20:33:25,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,frontHandleEnterClientOk,291,ERROR,??
+2015-10-01 20:33:26,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:26,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:26,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:33:26,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:26,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No14
+2015-10-01 20:33:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 14
+2015-10-01 20:33:27,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:33:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:33:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:33:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:29,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:33:30,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:30,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:30,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:33:30,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:30,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No15
+2015-10-01 20:33:31,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:31,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 15
+2015-10-01 20:33:31,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:33:32,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:32,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:33:32,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:32,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:33:32,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:32,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:33:33,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:34,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:34,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:33:34,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:34,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No16
+2015-10-01 20:33:35,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:35,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 16
+2015-10-01 20:33:35,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:33:36,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:36,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:33:36,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:36,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:33:36,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:36,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:33:37,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:37,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:37,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:33:37,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:37,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No17
+2015-10-01 20:33:38,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:38,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 17
+2015-10-01 20:33:38,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:33:39,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:39,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:33:39,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:39,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:33:39,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:39,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:33:40,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:41,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:41,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:33:41,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:41,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No18
+2015-10-01 20:33:42,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:42,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 18
+2015-10-01 20:33:42,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:33:43,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:43,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:33:43,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:43,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:33:43,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:43,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:33:44,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:44,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:44,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleEnterRoomRes,424,DEBUG,game enter room res
+2015-10-01 20:33:44,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:44,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleStartGameOk,1948,DEBUG,room No19
+2015-10-01 20:33:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameHandleFinishGameReq,503,DEBUG,roomNo - 19
+2015-10-01 20:33:45,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,connected,60,DEBUG,connected
+2015-10-01 20:33:46,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,receiveData,128,DEBUG,reciveData
+2015-10-01 20:33:46,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,749,DEBUG,ClientReceiveHandler::HandleFirstConnectReq
+2015-10-01 20:33:46,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:46,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,774,DEBUG,channelNo 1
+2015-10-01 20:33:46,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:33:46,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientHandleFirstConnectReq,807,DEBUG,1 8 channel1 15
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,571,DEBUG,user not login
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,clientSessionOut,578,DEBUG,delete from channel in 1
+2015-10-01 20:33:54,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/Channel.cpp,getChannelByChannelNo,89,DEBUG,channel 1
+2015-10-01 20:34:03,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,disconnected,94,DEBUG,disconnected
+2015-10-01 20:34:03,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameSessionOut,373,DEBUG,game sessionOut
+2015-10-01 20:34:03,/Users/kimyongchan/MoblieStar/Server/Server/LobbyServer/LobbyServer/IOManager.cpp,gameSessionOut,385,ERROR,game server remove fail
+2015-10-01 20:34:03,/Users/kimyongchan/MoblieStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,99,ERROR,userData not NULL

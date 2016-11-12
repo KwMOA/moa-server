@@ -1,0 +1,7 @@
+2016-01-09 19:13:46,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = server ip = 127.0.0.1 port = 20090 0 0
+2016-01-09 19:13:46,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20190 0 0
+2016-01-09 19:13:46,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,CreateTCPServerSocket,1197,ERROR,Bind() failed.
+
+2016-01-09 19:13:46,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,AddServerTypeNetworkInfo,382,ERROR,create sock error
+2016-01-09 19:13:46,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,Initialize,289,ERROR,AddServerType NetworkInfo error
+2016-01-09 19:13:46,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/CacheServer.cpp,initialize,54,ERROR,Network error

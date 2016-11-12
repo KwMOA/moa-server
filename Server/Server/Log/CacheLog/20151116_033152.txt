@@ -1,0 +1,6 @@
+2015-11-16 03:31:52,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = server ip = 127.0.0.1 port = 20090 0 0
+2015-11-16 03:31:52,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20190 0 0
+2015-11-16 03:31:52,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/GameDBChannel.cpp,InitUserInMemory,245,DEBUG,?
+Q 5
+2015-11-16 03:32:14,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/IOManager.cpp,connected,30,DEBUG,connected
+2015-11-16 03:32:17,/Users/kimyongchan/MobileStar/Server/Server/CacheServer/CacheServer/IOManager.cpp,disconnected,56,DEBUG,disconnected

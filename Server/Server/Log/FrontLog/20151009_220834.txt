@@ -1,0 +1,19 @@
+2015-10-09 22:08:34,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20100 0 0
+2015-10-09 22:08:34,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = game_server role = server ip = 127.0.0.1 port = 20200 0 0
+2015-10-09 22:08:34,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = chatting_server role = server ip = 127.0.0.1 port = 20300 0 0
+2015-10-09 22:08:34,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,131,DEBUG,type = client role = server ip = 127.0.0.1 port = 20400 0 0
+2015-10-09 22:09:01,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,28,DEBUG,connected
+2015-10-09 22:09:01,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,lobbySessionIn,130,DEBUG,lobby server session in
+2015-10-09 22:09:01,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,lobbyHandleFirstConnectReq,177,DEBUG,packet.gameIp = 127.0.0.1, packet.gamePort = 20210, packet.clientIp = 127.0.0.1 packet.clientPort = 20410
+2015-10-09 22:09:30,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,28,DEBUG,connected
+2015-10-09 22:09:30,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,gameSessionIn,234,DEBUG,gameSessionIn
+2015-10-09 22:09:42,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,610,ERROR,kevent wait fail.
+2015-10-09 22:09:42,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,ProcessEvent,610,ERROR,kevent wait fail.
+2015-10-09 22:09:48,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,28,DEBUG,connected
+2015-10-09 22:09:50,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,370,DEBUG,clientHandleFirstConnectReq
+2015-10-09 22:09:50,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleEnterLobbyReq,420,DEBUG,clientHandleEnterLobbyReq
+2015-10-09 22:10:00,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,60,DEBUG,disconnected
+2015-10-09 22:10:28,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,60,DEBUG,disconnected
+2015-10-09 22:10:28,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,gameSessionOut,240,DEBUG,gameSessionOut
+2015-10-09 22:10:31,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,60,DEBUG,disconnected
+2015-10-09 22:10:31,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,99,ERROR,userData not NULL

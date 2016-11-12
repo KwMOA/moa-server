@@ -1,0 +1,7 @@
+2016-01-04 05:04:47,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20200 0 0
+2016-01-04 05:04:47,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20420 0 0
+2016-01-04 05:04:47,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,CreateTCPClientSocket,1227,ERROR,can't connect.
+
+2016-01-04 05:04:47,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,AddClientTypeNetworkInfo,430,ERROR,create sock error
+2016-01-04 05:04:47,/Users/kimyongchan/CPG/Server/Lib/ServerNetworkLib/Network.cpp,Initialize,297,ERROR,AddClientType NetworkInfo error
+2016-01-04 05:04:47,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/GameServer.cpp,initialize,53,ERROR,Network error

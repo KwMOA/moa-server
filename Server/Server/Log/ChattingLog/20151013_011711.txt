@@ -1,0 +1,4 @@
+2015-10-13 01:17:11,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected
+2015-10-13 01:17:11,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/User.cpp,removeUser,169,ERROR,erase fail
+2015-10-13 01:17:11,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,clientSessionOut,284,ERROR,userMgr->removeUser(user)
+2015-10-13 01:17:14,/Users/kimyongchan/MobileStar/Server/Server/ChattingServer/ChattingServer/IOManager.cpp,disconnected,53,DEBUG,disconnected

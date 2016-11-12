@@ -1,0 +1,14 @@
+2015-11-18 21:01:02,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2015-11-18 21:01:02,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL
+2015-11-18 21:01:12,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,35,DEBUG,connected
+2015-11-18 21:01:12,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,537,DEBUG,clientHandleFirstConnectReq
+2015-11-18 21:02:04,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2015-11-18 21:02:04,/Users/kimyongchan/MobileStar/Server/Lib/ServerNetworkLib/Network.cpp,~ConnectInfo,100,ERROR,userData not NULL
+2015-11-18 21:02:34,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,35,DEBUG,connected
+2015-11-18 21:02:34,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,537,DEBUG,clientHandleFirstConnectReq
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleEnterLobbyReq,661,DEBUG,clientHandleEnterLobbyReq
+2015-11-18 21:03:11,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected
+2015-11-18 21:03:50,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,connected,35,DEBUG,connected
+2015-11-18 21:03:50,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleFirstConnectReq,537,DEBUG,clientHandleFirstConnectReq
+2015-11-18 21:03:51,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,clientHandleEnterLobbyReq,661,DEBUG,clientHandleEnterLobbyReq
+2015-11-18 21:03:51,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/IOManager.cpp,disconnected,70,DEBUG,disconnected

@@ -1,0 +1,279 @@
+2016-01-09 19:14:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = client ip = 127.0.0.1 port = 20200 0 0
+2016-01-09 19:14:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/GameData.cpp,LoadNetworkInfo,135,DEBUG,type = client role = server ip = 127.0.0.1 port = 20420 0 0
+2016-01-09 19:14:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2016-01-09 19:14:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:14:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,frontHandleFirstConnectRes,168,DEBUG,127.0.0.1 20210
+2016-01-09 19:14:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2016-01-09 19:14:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:14:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleFirstConnectRes,242,DEBUG,lobbyHandleFirstConnectRes
+2016-01-09 19:14:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleFirstConnectRes,253,DEBUG,127.0.0.1 20410
+2016-01-09 19:14:14,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:14:14,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleEnterRoomReq,284,DEBUG,ok
+2016-01-09 19:14:14,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2016-01-09 19:14:14,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:14:14,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:14:15,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:14:15,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 2
+2016-01-09 19:14:15,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 64000, y - 64000
+2016-01-09 19:14:15,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:14:15,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:14:15,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 160000, y - 64000
+2016-01-09 19:14:16,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:14:16,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:14:16,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 160000, y - 64000
+2016-01-09 19:14:16,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:14:16,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:14:16,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 160000, y - 64000
+2016-01-09 19:15:27,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,disconnected,57,DEBUG,disconnected
+2016-01-09 19:15:27,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientSessionOut,570,DEBUG,disconnect when start
+2016-01-09 19:15:44,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:44,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleEnterRoomReq,284,DEBUG,ok
+2016-01-09 19:15:44,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2016-01-09 19:15:44,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:44,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:45,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:45,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 2
+2016-01-09 19:15:45,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 64000, y - 64000
+2016-01-09 19:15:46,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:46,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:15:46,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 182560, y - 64000
+2016-01-09 19:15:46,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:46,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:15:46,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 182560, y - 64000
+2016-01-09 19:15:47,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:47,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:15:47,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 182560, y - 64000
+2016-01-09 19:15:48,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:48,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 2
+2016-01-09 19:15:48,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 182560, y - 64000
+2016-01-09 19:15:49,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:49,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:15:49,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 256640, y - 64000
+2016-01-09 19:15:50,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:50,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:15:50,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 256640, y - 64000
+2016-01-09 19:15:50,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:50,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:15:50,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 256640, y - 64000
+2016-01-09 19:15:51,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:51,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 2
+2016-01-09 19:15:51,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 256640, y - 64000
+2016-01-09 19:15:51,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:51,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:15:51,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 274880, y - 64000
+2016-01-09 19:15:52,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:52,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 2
+2016-01-09 19:15:52,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 274880, y - 64000
+2016-01-09 19:15:52,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:52,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:15:52,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 321280, y - 64000
+2016-01-09 19:15:53,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:53,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartSkillReq,819,DEBUG,end move req 
+2016-01-09 19:15:53,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startSkillReq,231,DEBUG,x - 321280, y - 64000
+2016-01-09 19:15:55,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:55,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 3
+2016-01-09 19:15:55,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 449280, y - 64000
+2016-01-09 19:15:55,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:55,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:15:55,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 431520, y - 64000
+2016-01-09 19:15:56,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:56,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:15:56,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 431520, y - 64000
+2016-01-09 19:15:56,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:56,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:15:56,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 431520, y - 64000
+2016-01-09 19:15:57,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:57,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:15:57,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 431520, y - 64000
+2016-01-09 19:15:57,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:57,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:15:57,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 431520, y - 64000
+2016-01-09 19:15:57,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:15:57,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:15:57,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 431520, y - 64000
+2016-01-09 19:16:00,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:16:00,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:16:00,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 431520, y - 64000
+2016-01-09 19:16:01,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:16:01,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:16:01,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 431520, y - 64000
+2016-01-09 19:16:03,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:16:03,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:16:03,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 431520, y - 64000
+2016-01-09 19:21:13,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,disconnected,57,DEBUG,disconnected
+2016-01-09 19:21:13,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientSessionOut,570,DEBUG,disconnect when start
+2016-01-09 19:21:29,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:21:29,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,lobbyHandleEnterRoomReq,284,DEBUG,ok
+2016-01-09 19:21:29,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,connected,29,DEBUG,connected
+2016-01-09 19:21:29,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:21:29,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:21:30,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:21:30,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 2
+2016-01-09 19:21:30,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 64000, y - 64000
+2016-01-09 19:21:30,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:21:30,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:21:30,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 153920, y - 64000
+2016-01-09 19:21:31,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:21:31,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:21:31,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:21:32,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:21:32,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:21:32,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:00,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:00,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:00,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:00,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:00,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:00,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:01,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:01,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:01,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:01,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:01,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:01,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:02,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:03,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:03,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:03,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:03,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:03,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:03,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:04,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:04,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:04,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:04,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:04,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:04,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:04,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:04,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:04,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:05,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:05,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:05,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:05,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:05,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:05,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:05,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:05,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:05,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:06,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:07,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:07,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:07,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:07,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:07,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:07,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:08,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:08,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:08,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:08,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:08,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:08,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:08,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:08,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:08,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:09,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:09,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:09,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:09,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:09,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:09,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:10,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:10,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:10,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:10,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:10,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:10,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:11,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:11,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:11,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:11,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:11,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:11,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:12,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:12,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartAttackReq,775,DEBUG,end move req 
+2016-01-09 19:22:12,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startAttackReq,165,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:12,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:12,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndAttackReq,797,DEBUG,end move req 
+2016-01-09 19:22:12,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endAttackReq,203,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:13,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:13,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 0
+2016-01-09 19:22:13,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 153920, y - 64000
+2016-01-09 19:22:13,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:13,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:22:13,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 153920, y - 111520
+2016-01-09 19:22:15,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:15,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartSkillReq,819,DEBUG,end move req 
+2016-01-09 19:22:15,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startSkillReq,231,DEBUG,x - 153920, y - 111520
+2016-01-09 19:22:16,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:16,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartSkillReq,819,DEBUG,end move req 
+2016-01-09 19:22:16,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startSkillReq,231,DEBUG,x - 153920, y - 239520
+2016-01-09 19:22:17,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:17,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartSkillReq,819,DEBUG,end move req 
+2016-01-09 19:22:17,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startSkillReq,231,DEBUG,x - 153920, y - 367520
+2016-01-09 19:22:18,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:18,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 1
+2016-01-09 19:22:18,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 153920, y - 495520
+2016-01-09 19:22:19,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:19,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleChangeMoveReq,731,DEBUG,start move req - direction : 2
+2016-01-09 19:22:19,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 153920, y - 321280
+2016-01-09 19:22:19,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:19,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:22:19,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 171680, y - 321280
+2016-01-09 19:22:20,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:20,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartSkillReq,819,DEBUG,end move req 
+2016-01-09 19:22:20,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startSkillReq,231,DEBUG,x - 171680, y - 321280
+2016-01-09 19:22:22,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:22,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 1
+2016-01-09 19:22:22,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 299680, y - 321280
+2016-01-09 19:22:23,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:23,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleChangeMoveReq,731,DEBUG,start move req - direction : 3
+2016-01-09 19:22:23,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 299680, y - 231520
+2016-01-09 19:22:23,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:23,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleChangeMoveReq,731,DEBUG,start move req - direction : 0
+2016-01-09 19:22:23,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 212960, y - 231520
+2016-01-09 19:22:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleChangeMoveReq,731,DEBUG,start move req - direction : 2
+2016-01-09 19:22:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 212960, y - 288160
+2016-01-09 19:22:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:22:24,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 282880, y - 288160
+2016-01-09 19:22:25,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:25,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 2
+2016-01-09 19:22:25,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 282880, y - 288160
+2016-01-09 19:22:26,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:26,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:22:26,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 436000, y - 288160
+2016-01-09 19:22:28,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:28,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartSkillReq,819,DEBUG,end move req 
+2016-01-09 19:22:28,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startSkillReq,231,DEBUG,x - 436000, y - 288160
+2016-01-09 19:22:30,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:30,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartSkillReq,819,DEBUG,end move req 
+2016-01-09 19:22:30,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startSkillReq,231,DEBUG,x - 512000, y - 288160
+2016-01-09 19:22:32,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:32,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleStartMoveReq,705,DEBUG,start move req - direction : 3
+2016-01-09 19:22:32,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,startMoveReq,90,DEBUG,x - 512000, y - 288160
+2016-01-09 19:22:33,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,receiveData,85,DEBUG,reciveData
+2016-01-09 19:22:33,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientHandleEndMoveReq,753,DEBUG,end move req 
+2016-01-09 19:22:33,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/Room.cpp,endMoveReq,128,DEBUG,x - 376160, y - 288160
+2016-01-09 19:24:22,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,disconnected,57,DEBUG,disconnected
+2016-01-09 19:24:22,/Users/kimyongchan/CPG/Server/Server/GameServer/GameServer/IOManager.cpp,clientSessionOut,570,DEBUG,disconnect when start

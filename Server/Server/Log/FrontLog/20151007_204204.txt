@@ -1,0 +1,2 @@
+2015-10-07 20:42:04,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontData.cpp,LoadNetworkInfo,52,ERROR,LoadFile : connect_info.xml
+2015-10-07 20:42:04,/Users/kimyongchan/MobileStar/Server/Server/FrontServer/FrontServer/FrontServer.cpp,initialize,48,ERROR,lobbyData Initialize

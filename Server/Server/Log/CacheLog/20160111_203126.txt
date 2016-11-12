@@ -1,0 +1,10 @@
+2016-01-11 20:31:26,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = front_server role = server ip = 127.0.0.1 port = 20090 0 0
+2016-01-11 20:31:26,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/CacheData.cpp,LoadNetworkInfo,135,DEBUG,type = lobby_server role = server ip = 127.0.0.1 port = 20190 0 0
+2016-01-11 20:31:26,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/User.cpp,initialize,16,DEBUG,5
+2016-01-11 20:31:26,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/User.cpp,initialize,16,DEBUG,4
+2016-01-11 20:31:26,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/User.cpp,initialize,16,DEBUG,3
+2016-01-11 20:31:27,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/IOManager.cpp,connected,30,DEBUG,connected
+2016-01-11 20:31:31,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/IOManager.cpp,connected,30,DEBUG,connected
+2016-01-11 20:31:31,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/IOManager.cpp,lobbySessionIn,270,DEBUG,lobby server session in
+2016-01-11 20:33:08,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/IOManager.cpp,disconnected,56,DEBUG,disconnected
+2016-01-11 20:33:10,/Users/kimyongchan/CPG/Server/Server/CacheServer/CacheServer/IOManager.cpp,disconnected,56,DEBUG,disconnected
