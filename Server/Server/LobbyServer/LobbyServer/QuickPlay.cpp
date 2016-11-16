@@ -8,7 +8,7 @@
 #include "LobbyDefine.h"
 bool QuickPlayManager::initialize()
 {
-    isPossibleAlone = true;
+    isPossibleAlone = false;
     return true;
 }
 

@@ -1,0 +1,1 @@
+sudo ssh -i /Users/kimyongchan/Permission/zeroDay/ZeroDay.pem ec2-user@ec2-52-79-32-13.ap-northeast-2.compute.amazonaws.com
